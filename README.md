@@ -8,7 +8,14 @@ Most information in this repository was scraped from websites some of which may 
 This collection is no where near complete and possibly never will be, but I/we'll do our best to add all that we can and keep the information updated.
 
 ## Contributing
-Just look at the structure of the other entries and append another entry at the end of the JSON File.
+1. Fork the Repository
+2. Append another entry at the end of the JSON Array
+3. Send me a pull request
+
+Alternatively you could
+
+1. Create an Issue with all the impormation about the school(s) you want added
+2. Email me at [o.jamal97@gmail.com](mailto: o.jamal97@gmail.com) with the details.
 
 ### Structure
 The data is in JSON Format consisting of one big array of objects. Each object contains details about a school.
