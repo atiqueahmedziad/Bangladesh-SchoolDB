@@ -1,0 +1,13 @@
+[
+	{
+		"name":"Scholastica",
+		"addresses": [
+			"Plot 2, Road 8 & 9, Sector 1, Uttara Model Town, Dhaka 1230",
+			"Plot 2/B-2, 2/C line one, Section 13, Mirpur, Dhaka 1216",
+			"House 78, Road 8/A, Mirza Golam Hafiz Road, Dhanmondi R/A, Dhaka 1209"
+		],
+		"phones": ["8912753", "9012099", "8116021", "8815223", "8952207"],
+		"emails": ["seniorsection_uttara@scholasticabd.com","middle_mirpur@scholasticabd.com"],
+		"curriculum": "international"
+	}
+]
