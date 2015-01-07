@@ -6,10 +6,22 @@
 			"Plot 2/B-2, 2/C line one, Section 13, Mirpur, Dhaka 1216",
 			"House 78, Road 8/A, Mirza Golam Hafiz Road, Dhanmondi R/A, Dhaka 1209"
 		],
-		"phones": ["8912753", "9012099", "8116021", "8815223", "8952207"],
-		"emails": ["seniorsection_uttara@scholasticabd.com","middle_mirpur@scholasticabd.com"],
+		"phones": [
+			"8912753",
+			"9012099",
+			"8116021",
+			"8815223",
+			"8952207"
+		],
+		"emails": [
+			"seniorsection_uttara@scholasticabd.com",
+			"middle_mirpur@scholasticabd.com"
+		],
+		"website": "http://www.scholasticabd.com/",
 		"curriculum": "international"
 	},
+
+
 	{
 		"name": "Cardiff International School Dhaka",
 		"alternate_name": "CISD",
@@ -17,8 +29,74 @@
 			"House # 60/A, Road # 27 (old), 16 New, Dhanmondi, Dhaka-1209",
 			"House# 2/9, Block# D, Lalmatia, Dhaka-1207",
 		],
-		"phones": ["9125289", "9127297", "01790700578"],
-		"emails": ["info@cisdbd.org"],
+		"phones": [
+			"9125289",
+			"9127297",
+			"01790700578"
+		],
+		"emails": [
+			"info@cisdbd.org"
+		],
+		"website": "http://www.cisdbd.org/",
 		"curriculum": "international"
+	},
+
+
+	{
+		"name": "Oxford International School",
+		"alternate_name": "OIS",
+		"addresses": [
+			"House# 34, Road # 27 (old), Dhanmondi R/A, Dhaka",
+			"House # 113(New),849(Old) Road # 9/A (New), 19(Old), Dhanmondi R/A, Dhaka",
+			"Plot Ga 25/5/1, Shahjadpur, Progoti Swarani, Gulshan , Dhaka-1212",
+			"House-40, Gausul Azam Avenue, Sector-13, Uttara, Dhaka-1230"
+		],
+		"phones": [
+			"9115392",
+			"9137689",
+			"8899935",
+			"8952322"
+		],
+		"emails": [
+			"info@oisbd.net"
+		],
+		"website": "http://www.oisbd.net/",
+		"curriculum": "international"
+	},
+
+
+	{
+		"name": "Saint Francis Xavier’s Greenherald International School",
+		"alternate_name": "SFXGHIS",
+		"addresses": [
+			"24 Asad Avenue Mohammadpur, Dhaka 1207",
+
+		],
+		"phones": [
+			"9115200",
+			"8120371"
+		],
+		"emails": [
+			"info@sfxghis.com",
+			"greenherald@gmail.com"
+		],
+		"website": "http://www.sfxghis.com/",
+		"curriculum": "international"
+	},
+
+
+	{
+		"name": "St. Joseph Higher Secondary School",
+		"addresses": [
+			"97 Asad Avenue, Mohammedpur, Dhaka-1207"
+		],
+		"phones": [
+			"9112917"
+		],
+		"emails": [
+			"sjhss.bd@gmail.com"
+		],
+		"website": "http://www.sjs.edu.bd/",
+		"curriculum": "national"
 	}
 ]
