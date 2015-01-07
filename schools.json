@@ -1,6 +1,6 @@
 [
 	{
-		"name":"Scholastica",
+		"name": "Scholastica",
 		"addresses": [
 			"Plot 2, Road 8 & 9, Sector 1, Uttara Model Town, Dhaka 1230",
 			"Plot 2/B-2, 2/C line one, Section 13, Mirpur, Dhaka 1216",
@@ -8,6 +8,17 @@
 		],
 		"phones": ["8912753", "9012099", "8116021", "8815223", "8952207"],
 		"emails": ["seniorsection_uttara@scholasticabd.com","middle_mirpur@scholasticabd.com"],
+		"curriculum": "international"
+	},
+	{
+		"name": "Cardiff International School Dhaka",
+		"alternate_name": "CISD",
+		"addresses": [
+			"House # 60/A, Road # 27 (old), 16 New, Dhanmondi, Dhaka-1209",
+			"House# 2/9, Block# D, Lalmatia, Dhaka-1207",
+		],
+		"phones": ["9125289", "9127297", "01790700578"],
+		"emails": ["info@cisdbd.org"],
 		"curriculum": "international"
 	}
 ]
