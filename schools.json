@@ -98,5 +98,38 @@
 		],
 		"website": "http://www.sjs.edu.bd/",
 		"curriculum": "national"
+	},
+	
+	{
+		"name": "BAF Shaheen College Dhaka",
+		"addresses": [
+			"Bir Uttam Ziaur Rahman Road, Dhaka 1206"
+		],
+		"phones": [
+			"9858440",
+			"8753420"
+		],
+		"emails": [
+			"info@bafsd.edu.bd"
+		],
+		"website": "http://www.bafsd.edu.bd",
+		"curriculum": "national"
+	},
+	
+	{
+		"name": "Notre Dame College Dhaka",
+		"addresses": [
+			"Toyenbee Circular Road, Dhaka 1000"
+		],
+		"phones": [
+			"01781-910129",
+			"7192325",
+			"7192598"
+		],
+		"emails": [
+			"info@ndub.edu.bd"
+		],
+		"website": "http://ndub.edu.bd",
+		"curriculum": "national"
 	}
 ]
